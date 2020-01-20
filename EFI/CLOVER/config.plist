@@ -556,7 +556,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02835403QXJH4RJC</string>
+		<string>C02720310GUHWVPJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -584,11 +584,11 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02X95Y9JHCD</string>
+		<string>C02TQ0CCHV29</string>
 		<key>SmUUID</key>
-		<string>E9FC80D7-E65F-4936-9F6B-45037BCA2933</string>
+		<string>82EB8770-E341-4BDD-B9B2-F5DF22DBCFB6</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
