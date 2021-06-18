@@ -1,5 +1,10 @@
 # Dell-Latitude-7480-Hackintosh
 
+```
+## Warning ##:
+I've already bought my own Macbook, so I don't update this repo any more. Please check other resource to avoid any issue for your hackintoshing progress ^^
+```
+
 Don't forget after install or upgrade to **Catalina 10.15** to copy files from `/EFI/CLOVER/kexts/Other/ToLE` folder to `/Library/Extentions` and change permission then rebuild cache
 
 ```
